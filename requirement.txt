@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+pandas
+jupyter
+tensorflow==1.8.0
+
